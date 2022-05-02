@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea 01</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="checkbox_recordarme">Recordar usuario</string>
+    <string name="ingrese_email">Ingrese su correo</string>
+    <string name="no_carga">El spinner de arriba no hace nada</string>
+    <string name="actividad_2">Bienvenidos a la segunda activity</string>
+    <string name="pesimo_servicio">Pesimo servicio! 😡</string>
+    <string name="opinion_usuario">Le parecio buena esta aplicacion?</string>
+    <string name="si">Si 😀</string>
+    <string name="no">No 😔</string>
+    <string name="boton_volver">Volver</string>
+    <string name="logo_actividad1">Logo UTEM</string>
+</resources>
